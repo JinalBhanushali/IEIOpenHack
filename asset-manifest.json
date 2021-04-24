@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JinalBhanushali/IEIOpenHackstatic/css/main.6cfe503f.chunk.css",
+    "main.js": "/JinalBhanushali/IEIOpenHackstatic/js/main.971e5ab2.chunk.js",
+    "main.js.map": "/JinalBhanushali/IEIOpenHackstatic/js/main.971e5ab2.chunk.js.map",
+    "runtime-main.js": "/JinalBhanushali/IEIOpenHackstatic/js/runtime-main.b05230d2.js",
+    "runtime-main.js.map": "/JinalBhanushali/IEIOpenHackstatic/js/runtime-main.b05230d2.js.map",
+    "static/js/2.81d8e1af.chunk.js": "/JinalBhanushali/IEIOpenHackstatic/js/2.81d8e1af.chunk.js",
+    "static/js/2.81d8e1af.chunk.js.map": "/JinalBhanushali/IEIOpenHackstatic/js/2.81d8e1af.chunk.js.map",
+    "index.html": "/JinalBhanushali/IEIOpenHackindex.html",
+    "static/css/main.6cfe503f.chunk.css.map": "/JinalBhanushali/IEIOpenHackstatic/css/main.6cfe503f.chunk.css.map",
+    "static/js/2.81d8e1af.chunk.js.LICENSE.txt": "/JinalBhanushali/IEIOpenHackstatic/js/2.81d8e1af.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/JinalBhanushali/IEIOpenHackstatic/media/DSEG7Classic-BoldItalic.ea4e93b1.ttf",
+    "static/media/logo.5b04bcc9.jpg": "/JinalBhanushali/IEIOpenHackstatic/media/logo.5b04bcc9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b05230d2.js",
+    "static/js/2.81d8e1af.chunk.js",
+    "static/css/main.6cfe503f.chunk.css",
+    "static/js/main.971e5ab2.chunk.js"
+  ]
+}
